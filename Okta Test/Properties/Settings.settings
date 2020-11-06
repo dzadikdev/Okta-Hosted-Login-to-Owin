@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Okta_Test.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OktaUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="OktaAppId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="OktaAppSecret" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="OktaAPIToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
